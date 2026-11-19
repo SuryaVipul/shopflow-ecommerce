@@ -1,0 +1,22 @@
+# Maven build output
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+
+# Eclipse IDE metadata (Crucial for Eclipse users)
+.classpath
+.project
+.settings/
+.metadata/
+.apt_generated/
+.factorypath
+bin/
+
+# OS & Logs
+.DS_Store
+Thumbs.db
+*.log
+
+# Local environment secrets
+.env
