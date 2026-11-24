@@ -1,4 +1,6 @@
 package com.shopflow.user.entity;
 
-public class Role {
+public enum Role {
+    CUSTOMER,
+    ADMIN
 }
