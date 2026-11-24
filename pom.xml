@@ -21,10 +21,10 @@
 
     <!-- We will uncomment each module as we build it -->
    
-    <modules>
+   <modules>
         <module>service-registry</module>
-      <!--  <module>api-gateway</module>
-        <module>user-service</module>-->
+        <module>api-gateway</module>
+        <module>user-service</module>
     </modules>
     
 
