@@ -67,14 +67,7 @@
             <optional>true</optional>
         </dependency>
 
-        <!-- JUnit 5 + Mockito + Spring Test for every module -->
-        <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-test</artifactId>
-            <scope>test</scope>
-        </dependency>
-
-            <!-- JJWT (JSON Web Tokens) -->
+                 <!-- JJWT (JSON Web Tokens) -->
             <dependency>
                 <groupId>io.jsonwebtoken</groupId>
                 <artifactId>jjwt-api</artifactId>
